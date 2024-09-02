@@ -1,7 +1,16 @@
 # 💫 About Me:
-<br>**About Me:**<br>I'm currently working on generative AI and robotics projects, focusing on creating innovative solutions in these fields.<br><br>**I'm looking to collaborate on:**<br>Neural networks, generative AI, and IoT projects. I'm particularly interested in projects that combine these technologies for groundbreaking applications.<br><br>**I'm looking for help with:**<br>Improving my front-end development skills to better integrate AI solutions into user-friendly interfaces.<br><br>**I'm currently learning:**<br>R, MySQL, big data analytics, and cloud computing to broaden my technical expertise and enhance my understanding of data management and scalable AI solutions.<br><br>**Ask me about:**<br>Artificial intelligence, machine learning, NLP, Python programming, or any of my recent projects in generative AI and robotics.<br>
+<br>*I'm currently working on generative AI and robotics projects, focusing on creating innovative solutions in these fields.*<br><br>
 
-<br>**Fun fact:** *I love Shakespeare and writing, especially if poetry is your definition of fun!*<br>
+**I'm looking to collaborate on:**<br>*Neural networks, generative AI, and IoT projects. I'm particularly interested in projects that combine these technologies for groundbreaking applications.*<br><br>
+
+**I'm looking for help with:**<br>*Improving my front-end development skills to better integrate AI solutions into user-friendly interfaces.*<br><br>
+
+**I'm currently learning:**<br>*R, MySQL, big data analytics, and cloud computing to broaden my technical expertise and enhance my understanding of data management and scalable AI solutions.*<br><br>
+
+**Ask me about:**<br>*Artificial intelligence, machine learning, NLP, Python programming, or any of my recent projects in generative AI and robotics.*<br><br>
+
+**Fun fact:** *I love Shakespeare and writing, especially if poetry is your definition of fun!*
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shrinjita_paul)
