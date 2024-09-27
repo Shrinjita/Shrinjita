@@ -8,9 +8,9 @@
 **I'm currently learning:**<br>*R, MySQL, big data analytics, and cloud computing to broaden my technical expertise and enhance my understanding of data management and scalable AI solutions.*<br><br>
 
 **Ask me about:**<br>*Artificial intelligence, machine learning, NLP, Python programming, or any of my recent projects in generative AI and robotics.*<br><br>
-<br>
-**Fun fact:**<br><br>
-*I love Shakespeare and writing, especially if poetry is your definition of fun!*<br>
+
+**Fun fact:**<br>
+*I love Shakespeare and writing, especially if poetry is your definition of fun!*<br><br>
 
 
 ## 🌐 Socials:
