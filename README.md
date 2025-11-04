@@ -1,4 +1,4 @@
-HI!! I’m **Shrinjita Paul**, a final-year **AI Engineering student at SRMIST, KTR**, working at the intersection of **financial systems, generative and agentic AI, cloud computing, and IoT**. My focus is on building **intelligent, secure, and scalable AI products** that solve real-world enterprise and infrastructure problems.
+### Hi!! I’m **Shrinjita Paul**, a final-year **AI Engineering student at SRMIST, KTR**, working at the intersection of **financial systems, generative and agentic AI, cloud computing, and IoT**. My focus is on building **intelligent, secure, and scalable AI products** that solve real-world enterprise and infrastructure problems.
 
 ## Core Focus Areas
 
