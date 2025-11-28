@@ -65,9 +65,3 @@
 ## Looking to Collaborate On
 
 Projects involving **AI agents, RAG-based automation, fintech innovation, or real-time analytics**—particularly where **AI meets scalable architecture** and tangible human impact.
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Shrinjita&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shrinjita&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinjita&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
